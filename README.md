@@ -5,3 +5,4 @@ r = "rock"
 p = "paper"
 s = "scissors" 
 
+print ("Welcome to Rock, Paper, Scissors")
