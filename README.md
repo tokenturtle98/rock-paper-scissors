@@ -4,6 +4,6 @@ import random
 r = "rock" 
 p = "paper"
 s = "scissors" 
-quit = false
+quit = False
 
 print ("Welcome to Rock, Paper, Scissors")
