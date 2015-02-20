@@ -8,3 +8,7 @@ quit = False
 
 print ("Welcome to Rock, Paper, Scissors")
 while True: 
+  u = input()
+	if u == "quit":
+		quit()
+	
