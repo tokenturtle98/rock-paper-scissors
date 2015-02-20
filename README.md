@@ -7,3 +7,4 @@ s = "scissors"
 quit = False
 
 print ("Welcome to Rock, Paper, Scissors")
+while True: 
