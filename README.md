@@ -1,2 +1,6 @@
 # rock-paper-scissors
-#Andrew Mathew Jole
+#Andrew Mathew Joel
+r = "rock" 
+p = "paper"
+s = "scissors" 
+
